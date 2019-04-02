@@ -4,7 +4,7 @@ import Game from "./Game";
 
 class Button extends Component {
     //set addition variable with state
-    state={addition:0};
+    state={addition:1};
 
     constructor(props){
         super(props);
